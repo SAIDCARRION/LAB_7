@@ -71,3 +71,20 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 [![z8.jpg](https://i.postimg.cc/L4Tyx6Xq/z8.jpg)](https://postimg.cc/s1M9Xz5y)
 
+Para los valores de 50Hz, 100Hz, 500Hz y 1000Hz los resultados iran directamente anotados en las tablas ya que el procedimiento será el mismo.
+
+2.- Construya el circuito mostrado en la Figura 2
+
+[![z9.png](https://i.postimg.cc/Mp431PGd/z9.png)](https://postimg.cc/FYyx4x3L)
+
+[![z10.jpg](https://i.postimg.cc/m2gmJfzm/z10.jpg)](https://postimg.cc/gr1yL7Kh)
+
+[![z11.jpg](https://i.postimg.cc/2890fcnr/z11.jpg)](https://postimg.cc/1f6GGKWj)
+
+[![z12.jpg](https://i.postimg.cc/QM1m1jwd/z12.jpg)](https://postimg.cc/3yr2HQ3s)
+
+[![z13.jpg](https://i.postimg.cc/vByzvpwL/z13.jpg)](https://postimg.cc/TykgdNwp)
+
+[![z14.jpg](https://i.postimg.cc/ZRLLsVTk/z14.jpg)](https://postimg.cc/S2J8JL2V)
+
+
